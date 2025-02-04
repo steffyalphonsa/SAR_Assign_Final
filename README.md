@@ -7,4 +7,6 @@ This Notebook extracts and displays the **size of an image dataset** using the `
 ## Plotting the full image
 The first three cells are for plotting the full image
 
+## 
+
 
