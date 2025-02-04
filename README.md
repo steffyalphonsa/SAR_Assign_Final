@@ -24,5 +24,5 @@ This Notebook demonstrates the application of a **Hanning window filter** to an 
 
 ## **Requirements**
 Ensure that the following dependencies installed:
-- pip install numpy matplotlib scipy sarpy
+- pip install numpy matplotlib sarpy
 
